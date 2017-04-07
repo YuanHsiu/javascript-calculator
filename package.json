@@ -1,0 +1,17 @@
+{
+  "main": "index.html",
+  "name": "Simple Calculator",
+  "description": "Simple Calculator",
+  "window": {
+    "toolbar": false,
+    "fullscreen": false,
+    "title": "Simple Calculator",
+    "position": "mouse",
+    "chromium-args": "--enable-logging=stderr"
+  },
+  "repository": {},
+  "README": {},
+  "license": {},
+  "dependencies": {
+  }
+}
